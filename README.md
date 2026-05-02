@@ -1,16 +1,78 @@
-# flutter_application_2
+# 🍔 Grab n Go – Food Delivery App (Frontend)
 
-A new Flutter project.
+A modern and responsive Flutter-based UI for a food delivery mobile application.  
+This project focuses on clean design, smooth user experience, and reusable components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✨ Beautiful and clean UI design  
+- 📱 Fully responsive layout  
+- 🛒 Food listing screen  
+- 🔍 Search functionality UI  
+- 🧾 Cart screen design  
+- 👤 User profile screen  
+- 🎯 Smooth navigation between screens  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- Flutter  
+- Dart  
+
+---
+
+## 📂 Project Structure
+
+lib/  
+│── screens/        # All app screens  
+│── widgets/        # Reusable UI components  
+│── models/         # Data models  
+│── utils/          # Constants & helpers  
+│── main.dart       # Entry point  
+
+---
+
+## ▶️ Getting Started
+
+1. Clone the repository:  
+git clone https://github.com/your-username/grab-n-go-frontend.git  
+
+2. Navigate to project folder:  
+cd grab-n-go-frontend  
+
+3. Install dependencies:  
+flutter pub get  
+
+4. Run the app:  
+flutter run  
+
+---
+
+## ⚠️ Note
+
+This project is frontend only and does not include backend or API integration.
+
+---
+
+## 💡 Future Improvements
+
+- 🔗 Backend integration  
+- 💳 Payment system  
+- 🔐 Authentication (Login/Signup)  
+- 📦 Order tracking  
+
+---
+
+## 🙌 Author
+
+Hamna Riaz  
+Flutter Developer | Frontend Enthusiast  
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHu
